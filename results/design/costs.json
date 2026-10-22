@@ -1,0 +1,103 @@
+{
+  "half_spread": {
+    "coef": [
+      -1.8018906314354692,
+      -0.38243933739399794,
+      0.19031557484068826
+    ],
+    "r2": 0.26576049381959976,
+    "n": 913,
+    "resid_sd": 0.8435905007846084
+  },
+  "impact": {
+    "Y": 0.20801039686559306,
+    "ci95": [
+      0.18288797329307893,
+      0.23362368874337575
+    ],
+    "points": 2577,
+    "contracts": 232,
+    "orders": 653477,
+    "by_bucket": {
+      "1": {
+        "points": 912.0,
+        "orders": 357129.0,
+        "mean_notional": 1698.7681865746702,
+        "mean_excess_slippage": 3.7683503304536894e-05,
+        "mean_model": 4.645107458428193e-05
+      },
+      "2": {
+        "points": 876.0,
+        "orders": 196429.0,
+        "mean_notional": 4964.182156894497,
+        "mean_excess_slippage": 5.966185440998402e-05,
+        "mean_model": 6.078299498807632e-05
+      },
+      "3": {
+        "points": 504.0,
+        "orders": 66448.0,
+        "mean_notional": 15654.043904491951,
+        "mean_excess_slippage": 9.200188555379113e-05,
+        "mean_model": 6.778087742926448e-05
+      },
+      "4": {
+        "points": 233.0,
+        "orders": 24940.0,
+        "mean_notional": 47070.21939801601,
+        "mean_excess_slippage": 0.00010536739653731273,
+        "mean_model": 6.012964279013985e-05
+      },
+      "5": {
+        "points": 52.0,
+        "orders": 8531.0,
+        "mean_notional": 180184.47711937505,
+        "mean_excess_slippage": 9.651532685501192e-05,
+        "mean_model": 4.6894905324783316e-05
+      }
+    }
+  },
+  "depth_checks": {
+    "trade_notional": 8461.538461538461,
+    "by_year": {
+      "2023": {
+        "contract_days": 3726.0,
+        "walk_bp": 2.8349569184300267,
+        "model_bp": 2.7706537623179774,
+        "depth_1pct": 292309.088075
+      },
+      "2024": {
+        "contract_days": 5751.0,
+        "walk_bp": 2.8977049290857924,
+        "model_bp": 3.103254173031639,
+        "depth_1pct": 300083.09080500004
+      },
+      "2025": {
+        "contract_days": 4767.0,
+        "walk_bp": 4.168636825736606,
+        "model_bp": 4.143898522446539,
+        "depth_1pct": 191024.27865
+      }
+    },
+    "depth_elasticity_adv": 0.7301392760372077,
+    "depth_elasticity_sigma": -0.9913449636421827,
+    "depth_change_vs_first_year": {
+      "2024": 0.17667653154775254,
+      "2025": 0.12989363765375517
+    }
+  },
+  "model": {
+    "name": "calibrated (A1)",
+    "fee": 0.0005,
+    "impact_coefficient": 0.20801039686559306,
+    "spread_tiers": [],
+    "spread_coef": [
+      -1.8018906314354692,
+      -0.38243933739399794,
+      0.19031557484068826
+    ]
+  },
+  "sample": {
+    "execution_contract_days": 913,
+    "depth_contract_days": 14244
+  }
+}

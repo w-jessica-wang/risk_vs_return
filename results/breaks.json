@@ -1,0 +1,75 @@
+{
+  "note": "A7a, exploratory: the slopes come from data already seen.",
+  "break": {
+    "sup_f": 30.034705953217472,
+    "p_value": 0.0,
+    "split": 463,
+    "n": 2288,
+    "mean_before": -2.406585381521058,
+    "mean_after": 1.1171127813914343,
+    "split_ci95": [
+      366,
+      666
+    ],
+    "break_date": "2021-09-01",
+    "break_date_ci95": [
+      "2021-05-27",
+      "2022-03-23"
+    ]
+  },
+  "second_break_within_segments": {
+    "before": {
+      "sup_f": 2.0361116126079075,
+      "p_value": 0.745,
+      "split": 149,
+      "n": 463,
+      "mean_before": -0.93051110781276,
+      "mean_after": -3.107015530510028,
+      "split_ci95": [
+        71,
+        392
+      ],
+      "break_date": "2020-10-22",
+      "break_date_ci95": [
+        "2020-08-05",
+        "2021-06-22"
+      ]
+    },
+    "after": {
+      "sup_f": 9.494348517413224,
+      "p_value": 0.0615,
+      "split": 1498,
+      "n": 1825,
+      "mean_before": 1.8384940774958098,
+      "mean_after": 0.17201196940658742,
+      "split_ci95": [
+        862,
+        1945
+      ],
+      "break_date": "2024-07-02",
+      "break_date_ci95": [
+        "2022-10-05",
+        "2025-09-22"
+      ]
+    }
+  },
+  "prediction_A7a": "holds",
+  "total_return_slope_break": {
+    "sup_f": 27.959213480490703,
+    "p_value": 0.0,
+    "split": 463,
+    "n": 2288,
+    "mean_before": -3.195770714130388,
+    "mean_after": 0.21127862774478987,
+    "split_ci95": [
+      365,
+      686
+    ],
+    "break_date": "2021-09-01",
+    "break_date_ci95": [
+      "2021-05-26",
+      "2022-04-12"
+    ],
+    "note": "Robustness, added after review: the same test on the total-return slope (b \u2212 \u03c1), whose no-carry value is 0; not part of the A7a prediction."
+  }
+}

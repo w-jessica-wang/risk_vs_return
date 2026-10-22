@@ -1,0 +1,65 @@
+[
+ {
+  "year": 2020,
+  "pass_through": -1.9001075466379764,
+  "pass_through_low": -3.701447102761399,
+  "pass_through_high": -0.09876799051455398,
+  "persistence": 0.7591220663906615,
+  "total_slope": -2.6866294707891307,
+  "net_sharpe": 2.770354848533301
+ },
+ {
+  "year": 2021,
+  "pass_through": -0.9556611634012485,
+  "pass_through_low": -2.9021815648850513,
+  "pass_through_high": 0.9908592380825544,
+  "persistence": 0.7466500914361629,
+  "total_slope": -1.8595767149410365,
+  "net_sharpe": 3.145121507827643
+ },
+ {
+  "year": 2022,
+  "pass_through": 1.5227608447379222,
+  "pass_through_low": 0.25993020474277695,
+  "pass_through_high": 2.785591484733067,
+  "persistence": 0.7345156025112598,
+  "total_slope": 0.675956948326287,
+  "net_sharpe": -0.034381929112494665
+ },
+ {
+  "year": 2023,
+  "pass_through": 1.5702866638892015,
+  "pass_through_low": -0.06117278886946642,
+  "pass_through_high": 3.201746116647869,
+  "persistence": 0.6902666243130529,
+  "total_slope": 0.5756509878526388,
+  "net_sharpe": 0.6101056916147317
+ },
+ {
+  "year": 2024,
+  "pass_through": 0.6288173977105778,
+  "pass_through_low": -0.6252333280028357,
+  "pass_through_high": 1.8828681234239912,
+  "persistence": 0.6674855804637452,
+  "total_slope": -0.25893573670186143,
+  "net_sharpe": -0.009969377325427327
+ },
+ {
+  "year": 2025,
+  "pass_through": 0.26293473493681047,
+  "pass_through_low": -0.27013553432430043,
+  "pass_through_high": 0.7960050041979214,
+  "persistence": 0.6669644088483646,
+  "total_slope": -0.6418076454245649,
+  "net_sharpe": -0.9278369192142515
+ },
+ {
+  "year": 2026,
+  "pass_through": 0.9762028629504996,
+  "pass_through_low": 0.5626573364813365,
+  "pass_through_high": 1.3897483894196627,
+  "persistence": 0.628426542642303,
+  "total_slope": 0.1980950951508206,
+  "net_sharpe": -2.150540545916675
+ }
+]

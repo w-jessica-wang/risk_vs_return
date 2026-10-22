@@ -1,0 +1,26 @@
+[
+ {
+  "strategy": "Baseline carry",
+  "net_sharpe": 1.8915257441402507,
+  "ci_low": -2.9537247347391262,
+  "ci_high": 6.5542509799579545,
+  "annual_return": 0.37183658828912847,
+  "max_drawdown": -0.05481921911398202
+ },
+ {
+  "strategy": "Carry with no-trade buffer",
+  "net_sharpe": 4.896267528499434,
+  "ci_low": 0.6397862819302879,
+  "ci_high": 8.96182194451678,
+  "annual_return": 0.7680992316854746,
+  "max_drawdown": -0.027802573429642097
+ },
+ {
+  "strategy": "Tail-robust carry",
+  "net_sharpe": 2.6287209134919514,
+  "ci_low": -4.1370731362742905,
+  "ci_high": 9.344048728160928,
+  "annual_return": 0.42962656225005297,
+  "max_drawdown": -0.04806893241943566
+ }
+]

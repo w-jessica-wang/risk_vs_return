@@ -1,0 +1,20 @@
+[
+ {
+  "id": "carry_stays_dead",
+  "prediction": "Carry stays dead",
+  "rule": "Baseline net Sharpe \u2264 0 (falsified if its 95% CI is above zero)",
+  "current": 1.8915257441402507,
+  "ci_low": -2.9537247347391262,
+  "ci_high": 6.5542509799579545,
+  "status": "holds"
+ },
+ {
+  "id": "parity_persists",
+  "prediction": "Funding parity persists",
+  "rule": "Mean price pass-through b \u2265 0.5 (falsified if below 0.5 and different from 1); no-carry benchmark b \u2248 \u03c1 \u2248 0.7",
+  "current": 0.6651503366402214,
+  "ci_low": 0.27227551078284046,
+  "ci_high": 1.0580251624976023,
+  "status": "holds"
+ }
+]

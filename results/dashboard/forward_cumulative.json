@@ -1,0 +1,437 @@
+[
+ {
+  "day": "2026-09-01",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.00512318253456423
+ },
+ {
+  "day": "2026-09-02",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.008654020144821306
+ },
+ {
+  "day": "2026-09-03",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.000967294667359675
+ },
+ {
+  "day": "2026-09-04",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.0038934926365614686
+ },
+ {
+  "day": "2026-09-05",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.015725075683472145
+ },
+ {
+  "day": "2026-09-06",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.003924939114239967
+ },
+ {
+  "day": "2026-09-07",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.005853581220384596
+ },
+ {
+  "day": "2026-09-08",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.00812102512553503
+ },
+ {
+  "day": "2026-09-09",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.023914317715431066
+ },
+ {
+  "day": "2026-09-10",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.023374996254886593
+ },
+ {
+  "day": "2026-09-11",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.014573843870671732
+ },
+ {
+  "day": "2026-09-12",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.027788841469178482
+ },
+ {
+  "day": "2026-09-13",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.037632090090885084
+ },
+ {
+  "day": "2026-09-14",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.026359887325677178
+ },
+ {
+  "day": "2026-09-15",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.017284102336274865
+ },
+ {
+  "day": "2026-09-16",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.01598420091356134
+ },
+ {
+  "day": "2026-09-17",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.008166677151617563
+ },
+ {
+  "day": "2026-09-18",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.0077454399198395585
+ },
+ {
+  "day": "2026-09-19",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.0064689804016666574
+ },
+ {
+  "day": "2026-09-20",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.0026389452812463077
+ },
+ {
+  "day": "2026-09-21",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.004665799703459594
+ },
+ {
+  "day": "2026-09-22",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.019250090815506327
+ },
+ {
+  "day": "2026-09-23",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.009145461488413775
+ },
+ {
+  "day": "2026-09-24",
+  "strategy": "Baseline carry",
+  "cumulative_return": -0.006797182128719825
+ },
+ {
+  "day": "2026-09-25",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.004549596821624258
+ },
+ {
+  "day": "2026-09-26",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.022914865530277995
+ },
+ {
+  "day": "2026-09-27",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.03397934759634924
+ },
+ {
+  "day": "2026-09-28",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.03651419464236838
+ },
+ {
+  "day": "2026-09-29",
+  "strategy": "Baseline carry",
+  "cumulative_return": 0.028445206390130373
+ },
+ {
+  "day": "2026-09-01",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": -0.004058798321271095
+ },
+ {
+  "day": "2026-09-02",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": -0.005584890328034442
+ },
+ {
+  "day": "2026-09-03",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.003361100006138429
+ },
+ {
+  "day": "2026-09-04",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.004876619021290329
+ },
+ {
+  "day": "2026-09-05",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": -0.009940546794947491
+ },
+ {
+  "day": "2026-09-06",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.007563947936754634
+ },
+ {
+  "day": "2026-09-07",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.01247825036089556
+ },
+ {
+  "day": "2026-09-08",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.015639579343165178
+ },
+ {
+  "day": "2026-09-09",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.029106362092265137
+ },
+ {
+  "day": "2026-09-10",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.027707373446114625
+ },
+ {
+  "day": "2026-09-11",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.025958016232158432
+ },
+ {
+  "day": "2026-09-12",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.03310936627302552
+ },
+ {
+  "day": "2026-09-13",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.04346305950555118
+ },
+ {
+  "day": "2026-09-14",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.0377123334698366
+ },
+ {
+  "day": "2026-09-15",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.03417041797464382
+ },
+ {
+  "day": "2026-09-16",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.03455385067151151
+ },
+ {
+  "day": "2026-09-17",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.03150137284620791
+ },
+ {
+  "day": "2026-09-18",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.01960305512548488
+ },
+ {
+  "day": "2026-09-19",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.024574427065336524
+ },
+ {
+  "day": "2026-09-20",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.02839224304761334
+ },
+ {
+  "day": "2026-09-21",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.02450913697234336
+ },
+ {
+  "day": "2026-09-22",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.014452101172529153
+ },
+ {
+  "day": "2026-09-23",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.023552422688220886
+ },
+ {
+  "day": "2026-09-24",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.02762852171970076
+ },
+ {
+  "day": "2026-09-25",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.038633216811153615
+ },
+ {
+  "day": "2026-09-26",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.05621441611187916
+ },
+ {
+  "day": "2026-09-27",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.06742264060369774
+ },
+ {
+  "day": "2026-09-28",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.07075586058861227
+ },
+ {
+  "day": "2026-09-29",
+  "strategy": "Carry with no-trade buffer",
+  "cumulative_return": 0.06186069239025116
+ },
+ {
+  "day": "2026-09-01",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": 0.004381141538153388
+ },
+ {
+  "day": "2026-09-02",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.015857719352671995
+ },
+ {
+  "day": "2026-09-03",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.012401729101365833
+ },
+ {
+  "day": "2026-09-04",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.0057332749780882875
+ },
+ {
+  "day": "2026-09-05",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.002623508540192332
+ },
+ {
+  "day": "2026-09-06",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": 0.008357724049160797
+ },
+ {
+  "day": "2026-09-07",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.00512528387044886
+ },
+ {
+  "day": "2026-09-08",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.008837961176375364
+ },
+ {
+  "day": "2026-09-09",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.013091323831629476
+ },
+ {
+  "day": "2026-09-10",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.014645636157054498
+ },
+ {
+  "day": "2026-09-11",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.024397433571011762
+ },
+ {
+  "day": "2026-09-12",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.027178433184503303
+ },
+ {
+  "day": "2026-09-13",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.032928356791534386
+ },
+ {
+  "day": "2026-09-14",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.03396916160141927
+ },
+ {
+  "day": "2026-09-15",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.04011295524277425
+ },
+ {
+  "day": "2026-09-16",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.03662894712161335
+ },
+ {
+  "day": "2026-09-17",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.022699883427688583
+ },
+ {
+  "day": "2026-09-18",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.01359454595324494
+ },
+ {
+  "day": "2026-09-19",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.01585424079897524
+ },
+ {
+  "day": "2026-09-20",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.013704323638370264
+ },
+ {
+  "day": "2026-09-21",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.02237786161766908
+ },
+ {
+  "day": "2026-09-22",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.020600776252569508
+ },
+ {
+  "day": "2026-09-23",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.01581261683020141
+ },
+ {
+  "day": "2026-09-24",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": -0.008978793508496286
+ },
+ {
+  "day": "2026-09-25",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": 0.009669677041760583
+ },
+ {
+  "day": "2026-09-26",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": 0.019860292366039145
+ },
+ {
+  "day": "2026-09-27",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": 0.031922978454027584
+ },
+ {
+  "day": "2026-09-28",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": 0.03506993120175239
+ },
+ {
+  "day": "2026-09-29",
+  "strategy": "Tail-robust carry",
+  "cumulative_return": 0.03364445350791656
+ }
+]

@@ -1,0 +1,11 @@
+[
+ {
+  "window_start": "2026-09-01",
+  "window_end": "2027-02-27",
+  "evaluated_from": "2026-09-01",
+  "evaluated_to": "2026-09-29",
+  "days": 29,
+  "data_through": "2026-10-01",
+  "gate_days_on": 0.0
+ }
+]
